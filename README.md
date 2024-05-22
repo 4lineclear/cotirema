@@ -1,3 +1,3 @@
-# cotire
+# cotirema
 
-Compile Time Regex
+Compile Time Regex Macros
