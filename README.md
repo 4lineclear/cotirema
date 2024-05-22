@@ -1,0 +1,3 @@
+# cotire
+
+Compile Time Regex
